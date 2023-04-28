@@ -1,9 +1,0 @@
-sd2223/aula8/mastodon/msgs/CreateFolderV2Args.class
-sd2223/aula8/mastodon/CreatePost.class
-sd2223/aula8/mastodon/MostodonApi$InstanceHolder.class
-sd2223/aula8/mastodon/MostodonApi.class
-sd2223/aula8/mastodon/msgs/ListFolderArgs.class
-sd2223/aula8/mastodon/msgs/ListFolderReturn.class
-sd2223/aula8/mastodon/ListDirectory.class
-sd2223/aula8/mastodon/msgs/ListFolderReturn$FolderEntry.class
-sd2223/aula8/mastodon/msgs/ListFolderContinueArgs.class
