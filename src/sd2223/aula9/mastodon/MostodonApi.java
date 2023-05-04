@@ -1,4 +1,4 @@
-package sd2223.aula8.mastodon;
+package sd2223.aula9.mastodon;
 
 import com.github.scribejava.core.builder.api.DefaultApi20;                                                               
 
