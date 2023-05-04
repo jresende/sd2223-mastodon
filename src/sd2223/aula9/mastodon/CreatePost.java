@@ -8,7 +8,7 @@ import com.github.scribejava.core.model.Response;
 import com.github.scribejava.core.model.Verb;
 import com.github.scribejava.core.oauth.OAuth20Service;
 
-public class CreatePost {
+	public class CreatePost {
 
     private static final String apiKey = "";
     private static final String apiSecret = "";
@@ -34,8 +34,9 @@ public class CreatePost {
 	
 	
 	service.signRequest(accessToken, request);
-	
+
 	try (Response response = service.execute(request)) {
+		System.out.println(response);
 	    System.out.println("Got it!");
 	    System.out.println();
 	    System.out.println(response.getCode());
